@@ -1,0 +1,12 @@
+.header-content{
+    font-family:'Arvo',serif;
+}
+.default-button{
+    font-size: 12px;
+    color:#fff;
+    font-family:'Roboto',sans-serif;
+    padding:5px 15px;
+    background-color:#ff1732;
+    border-radius:20px;
+    margin-right:20px;
+}
