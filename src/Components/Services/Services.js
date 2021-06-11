@@ -5,7 +5,7 @@ import videoIcon from '../../images/video-icon.png'
 
 const Services = () => {
     return (
-        <div className="container grid grid-cols-3 gap-4 py-8">
+        <div className="container grid grid-cols-3 gap-4 py-8 mx-auto">
             <div className="service-block text-center">
                 <img src={camera1} alt="camera" className="inline"/>
                 <h3 className="py-4">Take Awesome Pictures</h3>
