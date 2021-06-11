@@ -1,7 +1,7 @@
 .about-left{
     background-color:#3d3139;
 }
-.about-left h4{
+.about-left h4,.featured-left h3{
     font-family: 'Arvo',serif;
-    font-size: 22px;
+    font-size: 35px;
 }

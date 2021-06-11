@@ -11,13 +11,13 @@ const About = () => {
                         <h4 className="capitalize leading-loose">where ever you are</h4>
                         <p className="py-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis repellendus nulla eaque tempore a id eius vitae maxime delectus ad.</p>
                         <div className="flex">
-                            <div className="shop">
-                                <h3>Shops</h3>
-                                <p>2300</p>
+                            <div className="shop border border-white p-5 m-3 text-2xl">
+                                <h3 className="mb-3">Shops</h3>
+                                <p className="mb-2">2300</p>
                             </div>
-                            <div className="branches">
-                                <h3>Braches</h3>
-                                <p>12000</p>
+                            <div className="branches border border-white p-5 m-3 text-2xl">
+                                <h3 className="mb-3">Braches</h3>
+                                <p className="mb-2">12000</p>
                             </div>
                         </div>
                     </div>

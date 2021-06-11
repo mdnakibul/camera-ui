@@ -4,6 +4,7 @@ import Featured from '../Featured/Featured';
 import Header from '../Header/Header';
 import Navigatin from '../Navigation/Navigatin';
 import Services from '../Services/Services';
+import Testimonial from '../Testimonial/Testimonial';
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <Services/>
             <About/>
             <Featured/>
+            <Testimonial/>
         </section>
     );
 };
